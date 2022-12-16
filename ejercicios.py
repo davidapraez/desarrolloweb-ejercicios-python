@@ -47,7 +47,7 @@ class metodosOpcionales():
 if __name__=='__main__':
     opcion = 0
     metodos=metodosOpcionales()
-    while opcion != 5:
+    while opcion != 4:
         print("Administracion de cuenta de ahorros ");
         print("Digite opcion que desee ")
         print("1.Crear nueva cuenta de ahorros")
